@@ -1,4 +1,5 @@
 
+/* git check out and merge testing 2017-05-06 */
 public class CodeSqrt 
 {
 
